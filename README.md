@@ -14,7 +14,7 @@
 <br>
 <div align="right">
 <a href="https://github.com/mirvoxtm">
-<img height="-375em" width="470em" align="right" src="https://github-readme-stats.vercel.app/api?username=mirvoxtm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="-375em" width="470em" align="right" src="https://github-readme-stats.vercel.app/api?username=mirvoxtm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>
 <div align="left">
 ✅ ⟨ Build customizada de <a href="https://www.youtube.com/watch?v=iik25wqIuFo">dwm ⟩⟩</a><br>
 ✅ ⟨ Programar um site em HTML/CSS/JS <a href="https://semicollon-estudios.neocities.org/">⟩⟩</a><br>
