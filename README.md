@@ -20,7 +20,7 @@
 ✅ ⟨ Programar um site em HTML/CSS/JS <a href="https://semicollon-estudios.neocities.org/">⟩⟩</a><br>
 🔜 ⟨ Entender e programar C/Lua/Python/Rust<br>
 🔜 ⟨ Criar um Jogo do zero<br>
-🔜 ⟨ Criar um Applet do zero<br>
+🔜 ⟨ Criar um WebApp do zero<br>
 🔜 ⟨ Criar a Cedilla Engine<br>
 🔜 ⟨ Concluir o <a href="https://twitter.com/Semicollon_BR">Projeto Bernoulli</a> 👀
 </div>
