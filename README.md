@@ -1,4 +1,4 @@
-<h1 align="center"> <b> 🐱‍💻 ⟩ Heya! Eu sou o Miguel!</b><br><h3 align="center"> 👾 ⟩ Sou um amante de Tecnologia e Computadores, sempre buscando conhecimento! ⟨ 👾</h3></h1>
+<h1 align="center"> <b> 🐱‍💻 ⟩ Heya! Eu sou o Miguel! ⟨ 🐱‍💻 </b><br><h3 align="center"> 👾 ⟩ Sou um amante de Tecnologia e Computadores, sempre buscando conhecimento! ⟨ 👾</h3></h1>
 <p align="center"> <b> 🌎 ⟩ Heya! I'm Miguel! A lover of Technology and Computers, always looking up for knowledge! ⟨ 🌎</h3></h1>
 <p align="center"> ⟨ ☄️ / 🌀 / 📮 ⟩<br>
 <hr>
