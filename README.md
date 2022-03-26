@@ -12,7 +12,7 @@
 <br>
 <br>
 <p align="right">
-🐧 ⟩  Meu objetivo é alimentar o mundo de Software Open-Source, criando jogos, aplicativos e outros applets, com a esperança de aumentar a criatividade de programação destes programas aqui no<br>Brasil, e sempre com o objetivo de me divertir no processo!
+🐧 ⟩  Meu objetivo é alimentar o mundo de Software Open-Source, criando jogos, aplicativos e outros applets, com a esperança de aumentar a criatividade de programação destes programas aqui no Brasil, e sempre com o objetivo de me divertir no processo!
 </p>
 <hr> 
   
