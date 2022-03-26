@@ -1,5 +1,7 @@
-<h1 align="center"> <b>👨‍💻 ⟩ Heya! Eu sou o Miguel!</b></h1>
+<h1 align="center"> <b> 🐱‍💻 ⟩ Heya! Eu sou o Miguel!</b></h1>
 <h3 align="center">👾 ⟩ Sou um amante de Tecnologia e Computadores, sempre buscando conhecimento! ⟨ 👾</h3>
+<br>
+<img align="right" width="300px" src="./loggit.png">
 
 <!--
 **mirvoxtm/mirvoxtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
