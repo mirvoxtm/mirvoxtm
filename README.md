@@ -2,7 +2,10 @@
 <p align="center"> <b> 🌎 ⟩ Heya! I'm Miguel! A lover of Technology and Computers, always looking up for knowledge! ⟨ 🌎</h3></h1>
 <br>
 <br>
-
+<br>
+<p align="center"> ⟨ ☄️ / 🌀 / 📮 ⟩<br>
+<br>
+ <br> 
 <h1></h1>
 <img align="right" width="150px" src="./logpens.png">
 <p align="left"><br>
