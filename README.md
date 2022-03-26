@@ -1,7 +1,6 @@
 <h1 align="center"> <b> 🐱‍💻 ⟩ Heya! Eu sou o Miguel!</b></h1>
 <h3 align="center">👾 ⟩ Sou um amante de Tecnologia e Computadores, sempre buscando conhecimento! ⟨ 👾</h3>
-<br>
-<img align="right" width="200px" src="./loggit.png">
+<img align="right" width="200px" src="./loggit.png"><hr>
 <h4 align="left">💬 ⟩  Sempre fui interessado em computadores. Mas meu real interesse começou ao comprar um<br>Raspberry Pi 3B+ aos meus 14 anos de idade. Desde então, me mergulhei no mundo do Linux,<br>Open-Source e Programação, aprendendo tudo a base da Tentativa e Erro! </h4>
 
 <!--
