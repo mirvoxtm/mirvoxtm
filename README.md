@@ -1,9 +1,14 @@
 <h1 align="center"> <b> 🐱‍💻 ⟩ Heya! Eu sou o Miguel!</b><br><h3 align="center"> 👾 ⟩ Sou um amante de Tecnologia e Computadores, sempre buscando conhecimento! ⟨ 👾</h3></h1>
 <br>
-<br>
 <img align="right" width="200px" src="./loggit.png">
-<h3 align="left">💬 ⟩  Sempre fui interessado em computadores. Mas meu real interesse começou ao comprar um<br>Raspberry Pi 3B+ aos meus 14 anos de idade. Desde então, me mergulhei no mundo do Linux,<br>Open-Source e Programação, aprendendo tudo a base da Tentativa e Erro! </h3>
+<h4 align="left">💬 ⟩  Sempre fui interessado em computadores. Mas meu real interesse começou ao comprar um<br>Raspberry Pi 3B+ aos meus 14 anos de idade. Desde então, me mergulhei no mundo do Linux,<br>Open-Source e Programação, aprendendo tudo a base da Tentativa e Erro! <br>
+<br>
 
+🐧 ⟩  Meu objetivo é alimentar o mundo de Software Open-Source, criando jogos, aplicativos e outros applets, com a esperança de aumentar a criatividade de programação destes programas aqui no<br>Brasil, e sempre com o objetivo de me divertir no processo!
+<br>
+</h4>
+<br>
+  <hr> 
 <!--
 **mirvoxtm/mirvoxtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
