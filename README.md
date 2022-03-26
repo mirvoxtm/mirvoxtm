@@ -5,7 +5,6 @@
 <br>
 <p align="center"> ⟨ ☄️ / 🌀 / 📮 ⟩<br>
 <br>
- <br> 
 <h1></h1>
 <img align="right" width="150px" src="./logpens.png">
 <p align="left"><br>
