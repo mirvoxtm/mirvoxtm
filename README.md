@@ -11,7 +11,7 @@
 <br>
 <br>
 <br>
-<hr> 
+<p align="center"> ⟨ ☄️ / 🌀 / 📮 ⟩<br>
   
 <!--
 **mirvoxtm/mirvoxtm** is a ✨ _pecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
