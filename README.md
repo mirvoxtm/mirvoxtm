@@ -7,7 +7,7 @@
 <br>
  <br> 
  <img align="right" width="150px" src="./logpens.png">
-<p align="left">💬 ⟩  Sempre fui interessado em computadores. Mas meu real interesse começou ao comprar um<br>Raspberry Pi 3B+ aos meus 14 anos de idade. Desde então, me mergulhei no mundo do Linux,<br>Open-Source e Programação, aprendendo tudo a base da Tentativa e Erro! Gosto de programar por diversão~! ヾ(・ω・*)<br>
+<p align="left">💬 ⟩  Sempre fui interessado em computadores. Mas meu real interesse começou ao comprar um<br>Raspberry Pi 3B+ aos meus 14 anos de idade. Desde então, me mergulhei no mundo do Linux,<br>Open-Source e Programação, aprendendo tudo a base da Tentativa e Erro! ヾ(・ω・*)<br>
 <br>
 <br>
 <br>
