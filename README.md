@@ -2,7 +2,7 @@
 <p align="center"> <b> 🌎 ⟩ Heya! I'm Miguel! A lover of Technology and Computers, always looking up for knowledge! ⟨ 🌎</h3></h1>
 <p align="center"> ⟨ ☄️ / 🌀 / 📮 ⟩<br>
 <hr>
-<img align="right" width="200px" src="./loggit.png">
+<img align="right" width="200px" src="./logpens.png">
 <h4 align="left">💬 ⟩  Sempre fui interessado em computadores. Mas meu real interesse começou ao comprar um<br>Raspberry Pi 3B+ aos meus 14 anos de idade. Desde então, me mergulhei no mundo do Linux,<br>Open-Source e Programação, aprendendo tudo a base da Tentativa e Erro! <br>
 <br>
 <br>
