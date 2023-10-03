@@ -18,7 +18,7 @@
 <div align="left">
 ✅ ⟨ Build customizada de <a href="https://www.youtube.com/watch?v=iik25wqIuFo">dwm ⟩⟩</a><br>
 ✅ ⟨ Programar um site em HTML/CSS/JS <a href="https://semicollon-estudios.com.br/">⟩⟩</a><br>
-🔜 ⟨ Entender e programar C/Lua/Python/Rust<br>
+✅ ⟨ Entender e programar C/Lua/Python/Java<br>
 🔜 ⟨ Criar um Jogo do zero<br>
 🔜 ⟨ Criar um WebApp do zero<br>
 🔜 ⟨ Criar a Cedilla Engine<br>
