@@ -16,11 +16,9 @@
 <a href="https://github.com/mirvoxtm">
 <img height="-375em" width="470em" align="right" src="https://github-readme-stats.vercel.app/api?username=mirvoxtm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>
 <div align="left">
-✅ ⟨ Build customizada de <a href="https://www.youtube.com/watch?v=iik25wqIuFo">dwm ⟩⟩</a><br>
-✅ ⟨ Programar um site em HTML/CSS/JS <a href="https://semicollon-estudios.com.br/">⟩⟩</a><br>
 ✅ ⟨ Entender e programar C/Lua/Python/Java<br>
+✅ ⟨ Criar um <a href="https://pingo-for-pazetti.onrender.com/">WebApp do zero</a><br>
 🔜 ⟨ Criar um Jogo do zero<br>
-🔜 ⟨ Criar um WebApp do zero<br>
 🔜 ⟨ Criar a Cedilla Engine<br>
 🔜 ⟨ Concluir o <a href="https://twitter.com/Semicollon_BR">Projeto Bernoulli</a> 👀
 </div>
