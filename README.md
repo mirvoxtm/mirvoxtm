@@ -4,7 +4,6 @@
 
 <br>
 
-<img align="right" width="150px" src="./logpens.png"></img>
 - 💼 Estudante de Análise e Desenvolvimento de Sistemas na [FATEC](https://fatecrl.edu.br)
 - 📫 Me mande um E-Mail: miguel.aguiar1906@gmail.com
 
