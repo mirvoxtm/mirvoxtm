@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7E347&center=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB+%E2%9F%A9+Heya!+Eu+sou+o+Miguel!;Sou+um+Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
 
-<br>
-
 - 💼 Estudante de Análise e Desenvolvimento de Sistemas na [FATEC](https://fatecrl.edu.br)
 - 📫 Me mande um E-Mail: miguel.aguiar1906@gmail.com
 
+<br><br>
 <h2 align="left">Linguagens e Utilitários:</h2>
 
 <div style="display: inline_block; align-items: center; justify-content: center;">
