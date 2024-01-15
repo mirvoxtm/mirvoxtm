@@ -28,4 +28,5 @@
 - 🎱 [Pingo](https://pingo-for-pazetti.onrender.com/) | Um Sistema de Bingo em Springboot
 - 🍉 [Suika](https://pingo-for-pazetti.onrender.com/) | WebApp de Calculadora Matricial para Engenheiros feita em WebAssembly
 - 📚 [BetterSIGA](https://pingo-for-pazetti.onrender.com/) | Um overhaul da interface gráfica do site do SIGA da FATEC
+- 📚 [Kaosearch](https://kaosearch.agreeablestone-85a2b118.brazilsouth.azurecontainerapps.io/) | Um sistema de peesquisa de Kaomojis feito em ASP.NET
 
