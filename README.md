@@ -25,10 +25,10 @@
 <a href="https://www.adobe.com/br/products/photoshop.html"><img height="40rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
 <a href="https://dotnet.microsoft.com/pt-br/apps/aspnet/web-apps/blazor"><img height="40rem" width="50rem" src="https://www.svgrepo.com/show/349559/webassembly.svg" /></a>
 
-<h2 align="left">Projetos:</h2>
+<h2 align="left">Projetos pessoais:</h2>
   
-- 🎱 [Pingo](https://pingo-for-pazetti.onrender.com/) | Um Sistema de Bingo em Springboot
-- 🍉 [Suika] | WebApp de Calculadora Matricial para Engenheiros feita em WebAssembly
-- 📚 [BetterSIGA](https://mirvoxtm.github.io/BetterSIGA/) | Um overhaul da interface gráfica do site do SIGA da FATEC
-- 🐱 [Kaosearch](https://kaosearch.agreeablestone-85a2b118.brazilsouth.azurecontainerapps.io/) | Um sistema de pesquisa de Kaomojis feito em ASP.NET
+- 🎱 [Pingo](https://pingo-for-pazetti.onrender.com/) | Um Sistema de Bingo em Springboot (OFFLINE)
+- 🐱 [Kaosearch](https://kaosearch.agreeablestone-85a2b118.brazilsouth.azurecontainerapps.io/) | Um sistema de pesquisa de Kaomojis feito em ASP.NET (OFFLINE)
+- 📝 [iNout](https://github.com/mirvoxtm/iNout) | Uma simples aplicação de anotações em Flutter.
+- 🖍️ [Markers](https://github.com/TheMarkersFoundation) | TBA.
 
