@@ -5,5 +5,5 @@
 <h2 align="left">Projetos pessoais:</h2>
 
 - 🖍️ [Markers](https://themarkersfoundation.github.io/) | A Modern Markup language for academic purposes made in Haskell.
-- 🎌 [Kanarozo](https://kanarozo.onrender.com/) | An application to memorize Hiragana and Katakana.
+- 🎌 [Kanarozo](https://kanarozo.mirvox.xyz/) | An application to memorize Hiragana and Katakana.
 - 📝 [iNout](https://github.com/mirvoxtm/iNout) | A simple notes app in flutter.
