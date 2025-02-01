@@ -5,6 +5,7 @@
 <h2 align="left">Projetos pessoais:</h2>
 
 - 🖍️ [Markers](https://themarkersfoundation.github.io/) | A Modern Markup language for academic purposes made in Haskell.
+- 🎌 [Kanarozo](https://kanarozo.onrender.com/) | Uma aplicação para treinar e decorar Hiragana e Katakana
 - 🎱 [Pingo](https://pingo-for-pazetti.onrender.com/) | Um Sistema de Bingo em Springboot (OFFLINE)
 - 🐱 [Kaosearch](https://kaosearch.agreeablestone-85a2b118.brazilsouth.azurecontainerapps.io/) | Um sistema de pesquisa de Kaomojis feito em ASP.NET (OFFLINE)
 - 📝 [iNout](https://github.com/mirvoxtm/iNout) | Uma simples aplicação de anotações em Flutter.
