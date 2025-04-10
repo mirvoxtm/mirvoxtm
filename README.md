@@ -7,3 +7,5 @@
 - 🖍️ [Markers](https://themarkersfoundation.github.io/) | A Modern Markup language for academic purposes made in Haskell.
 - 🎌 [Kanarozo](https://kanarozo.mirvox.xyz/) | An application to memorize Hiragana and Katakana.
 - 📝 [iNout](https://github.com/mirvoxtm/iNout) | A simple notes app in flutter.
+--------
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S21DA0IH)
