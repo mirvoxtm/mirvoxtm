@@ -4,7 +4,8 @@
 
 <h2 align="left">Projetos pessoais:</h2>
 
-- 🖍️ [Markers](https://themarkersfoundation.github.io/) | A Modern Markup language for academic purposes made in Haskell.
+- 🏜️ [Miragem](https://miragem.mirvox.xyz/) | A Modern Editor that uses Markers for ABNT Formatting, with support for real-time collaboration.
+- 🖍️ [Markers](https://markers.mirvox.xyz) | A Modern Markup language for academic purposes made in Haskell.
 - 🎌 [Kanarozo](https://kanarozo.mirvox.xyz/) | An application to memorize Hiragana and Katakana.
 - 📝 [iNout](https://github.com/mirvoxtm/iNout) | A simple notes app in flutter.
 --------
